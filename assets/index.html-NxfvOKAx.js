@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1f5beead","path":"/tags/dingshirenwu/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08b7a856","path":"/tags/guibingpaixu/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};

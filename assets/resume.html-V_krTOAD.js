@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d47ed9b6","path":"/docs/resume/resume.html","title":"独立思考","lang":"zh-CN","frontmatter":{"title":"独立思考","subSidebar":false,"isShowComments":true,"date":"2023-11-22T00:00:00.000Z"},"headers":[],"git":{},"filePathRelative":"docs/resume/resume.md"}');export{e as data};

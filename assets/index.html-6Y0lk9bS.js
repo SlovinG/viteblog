@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-46633eb9","path":"/tags/chihuajishu/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
